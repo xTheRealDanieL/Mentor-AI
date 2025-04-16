@@ -16,7 +16,7 @@ async function sendPrompt() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ prompt })
-      });
+      });      
   
       const data = await res.json();
       responseBox.textContent = data.response || "Something went wrong.";
