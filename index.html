@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Prototype Chat</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Mentor AI</h1>
+    <textarea id="prompt" placeholder="Enter your question or math problem here..."></textarea>
+    <button onclick="sendPrompt()">Ask AI</button>
+    <div id="loading" class="hidden">Thinking...</div>
+    <div id="response"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
