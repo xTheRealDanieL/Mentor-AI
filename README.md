@@ -46,7 +46,17 @@ This site is built for clarity, usability, and easy integration — all hosted o
 
 ## 📁 File Structure
 
-<pre> ``` Mentor-AI-frontend/ ├── index.html # Core HTML structure ├── style.css # Dark-themed styles and layout ├── script.js # JS logic: fetch call, response display, loading UI └── README.md # Project info, setup, and credits ``` </pre>
+```
+Mentor-AI-frontend/
+├── index.html
+│   └─ Core HTML structure
+├── style.css
+│   └─ Dark-themed styles and layout
+├── script.js
+│   └─ JS logic: fetch call, response display, loading UI
+└── README.md
+    └─ Project info, setup, and credits
+```
 
 ---
 
