@@ -46,11 +46,7 @@ This site is built for clarity, usability, and easy integration — all hosted o
 
 ## 📁 File Structure
 
-Mentor-AI-frontend/
-├── index.html       # Core HTML structure
-├── style.css        # Dark-themed styles and layout
-├── script.js        # JS logic: fetch call, response display, loading UI
-└── README.md        # Project info, setup, and credits
+<pre> ``` Mentor-AI-frontend/ ├── index.html # Core HTML structure ├── style.css # Dark-themed styles and layout ├── script.js # JS logic: fetch call, response display, loading UI └── README.md # Project info, setup, and credits ``` </pre>
 
 ---
 
@@ -62,8 +58,7 @@ Mentor-AI-frontend/
 
 ## 🤝 Works With
 
-Pair this frontend with the official DeepSeek backend:
-> 🔗 [`deepseek-prototype-backend`](https://github.com/xTheRealDanieL/Mentor-AI-backend)
+> 🔗 [`Mentor-AI-backend`](https://github.com/xTheRealDanieL/Mentor-AI-backend)
 
 Together, they form a full AI web application — local, accurate, and ready for upgrades.
 
