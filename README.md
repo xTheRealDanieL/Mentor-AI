@@ -1,6 +1,6 @@
-# 🌐 Mentor AI Prototype – Frontend
+# 🌐 Mentor AI Prototype
 
-Welcome to the frontend of the **Mentor AI Prototype**, a sleek, lightweight interface for interacting with an AI-powered backend (built on `flan-t5-large` + math fallback).
+Welcome to the **Mentor AI Prototype**, a sleek, lightweight interface for interacting with an AI-powered backend (built on `flan-t5-large` + math fallback).
 
 This site is built for clarity, usability, and easy integration — all hosted on GitHub Pages for public viewing and demo access.
 
@@ -47,7 +47,7 @@ This site is built for clarity, usability, and easy integration — all hosted o
 ## 📁 File Structure
 
 ```
-Mentor-AI-frontend/
+Mentor-AI/
 ├── index.html
 │   └─ Core HTML structure
 ├── style.css
@@ -76,7 +76,7 @@ Together, they form a full AI web application — local, accurate, and ready for
 
 ## 👥 Creators
 
-- **Long "DanieL" Nguyen** – Frontend Dev, UI Integration, Project Lead
+- **Long "DanieL" Nguyen** – Fullstack Dev, UI Integration, Project Lead
 - 🌟 Special thanks to FastAPI, HuggingFace, and GitHub Pages for making this possible.
 
 ---
