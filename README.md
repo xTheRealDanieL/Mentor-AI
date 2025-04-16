@@ -60,23 +60,29 @@ Mentor-AI/
 
 ---
 
-## 📸 Preview
-
-*(Optional: Drop a screenshot or GIF here)*
-
----
-
 ## 🤝 Works With
 
-> 🔗 [`Mentor-AI-backend`](https://github.com/xTheRealDanieL/Mentor-AI-backend)
+> 🔗 [`Mentor-AI-backend`](https://mentor-ai-backend-skn0.onrender.com/generate)
 
 Together, they form a full AI web application — local, accurate, and ready for upgrades.
 
 ---
 
+## ⚠️ Cold Start Notice
+
+This app is hosted on Render's free tier, so the backend may "spin up" after ~15 minutes of inactivity. The first request may take up to 30–50 seconds to respond.
+
+✅ Once it's awake, all following requests will be fast.
+
+---
+
 ## 👥 Creators
 
-- **Long "DanieL" Nguyen** – Fullstack Dev, UI Integration, Project Lead
+- **Long Pham** - CEO, Project Manager
+- **Long "DanieL" Nguyen** – CIO, Fullstack Developer, UI Integration, Project Lead
+- **Ayushi Sharma** - CAO, Administrative Executive
+- **Rohit Ramesh** - CTO, Technology Executive
+- **Tom Bao** - CFO, Financial Executive
 - 🌟 Special thanks to FastAPI, HuggingFace, and GitHub Pages for making this possible.
 
 ---
