@@ -10,7 +10,7 @@ This site is built for clarity, usability, and easy integration — all hosted o
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the live version](https://xTheRealDanieL.github.io/Mentor-AI-frontend)
+👉 [Click here to try the live version](https://xTheRealDanieL.github.io/Mentor-AI/)
 
 ---
 
